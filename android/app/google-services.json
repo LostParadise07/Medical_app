@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "769554130353",
+    "project_id": "psyoappmohsin",
+    "storage_bucket": "psyoappmohsin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769554130353:android:046990945b7f8962d9c990",
+        "android_client_info": {
+          "package_name": "com.adeelsafdar.loginsignup.login_signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769554130353-rsfv83cqq0s1vot5557r972ffjlc9fh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA01k39oDWPNCJAEkF1fTNs_QFC5Jlmjg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769554130353-rsfv83cqq0s1vot5557r972ffjlc9fh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
